@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GymGo/static/css/main.c4801794.css",
+    "main.js": "/GymGo/static/js/main.fc3d6c86.js",
+    "static/media/banner.png": "/GymGo/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/GymGo/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/GymGo/index.html",
+    "main.c4801794.css.map": "/GymGo/static/css/main.c4801794.css.map",
+    "main.fc3d6c86.js.map": "/GymGo/static/js/main.fc3d6c86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4801794.css",
+    "static/js/main.fc3d6c86.js"
+  ]
+}
